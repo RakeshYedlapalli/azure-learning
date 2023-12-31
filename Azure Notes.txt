@@ -1,0 +1,51 @@
+Day 1:
+https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/learn/lecture/26676792#overview
+
+
+Dat 2:
+
+You're welcome and to check the $200 credit in the Azure portal, go to Cost Management + Billing, click on Cost Management, then select Payment methods under Billing. This will show the Default payment method and Azure credits.
+https://azure.microsoft.com/en-us/free/free-account-faq/?azure-portal=true
+
+microsoft Helper => v-anoren@microsoft.com
+
+
+chmod 400 my-first-vm_key.pem
+ssh -i YOUR_KEY_PATH azureuser@PUBLIC_IP_ADDRESS
+Ex : ssh -i my-first-vm_key.pem azureuser@20.118.128.45
+ 
+apt-get -y update
+apt-get -y install nginx
+ 
+echo "Hello World"
+echo "Hello World" > /var/www/html/index.html
+echo "Hello World from in28minutes" > /var/www/html/index.html
+echo "Welcome to Azure Learning $(hostname)" > /var/www/html/index.html
+hostname
+echo "$(hostname)"
+echo "Hello World from $(hostname)"
+echo "Hello World from $(hostname)" > /var/www/html/index.html
+
+
+----------------------------------------------------------------------------------------------------
+
+
+#!/bin/sh
+sudo su
+apt-get -y update
+apt-get -y install nginx
+echo "Welcome to in28minutes $(hostname)" > /var/www/html/index.html
+
+
+
+
+Day 3:
+
+https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/learn/lecture/26525498#overview
+
+
+
+Day 4:
+
+
+
