@@ -1,4 +1,4 @@
-package com.azure.learning.udemy.in28minutes;
+package com.azure.learning.udemy.in28minutes.fileservice;
 
 import com.azure.storage.file.share.ShareClient;
 import com.azure.storage.file.share.ShareClientBuilder;
